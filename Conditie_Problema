@@ -1,0 +1,2 @@
+Problema: Avand un cos de 20 de mere rosii si galbene sa se identifice numarul acestora pentru fiecare culoare. Merele galbene sunt identificate prin “1” iar cele rosii prin “0”.
+Pasii de elaborare: Avand cate un contor pentru fiecare culoare, la parcurgerea tabloului identificand 0 sau 1 incrementam contorul respectiv.
